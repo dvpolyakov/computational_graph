@@ -1,9 +1,5 @@
-# computational_graph
-Library provides a comfortable way of calculations over tables.
-
-# Description of idea
-
-Library provides a comfortable way of calculations over tables.
+# Computational Graph
+*Description of idea*: Library provides a comfortable way of calculations over tables.
 
 # Description of concept
 
